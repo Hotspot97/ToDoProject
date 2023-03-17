@@ -1,0 +1,3 @@
+.gitingnore
+__pycache__
+static/
